@@ -1,2 +1,3 @@
-# 2020
-ADCS 2020 - Cancelled due to Covid-19
+# Website for ADCS 2018
+
+ADCS 2018 (Dunedin)
